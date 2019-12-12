@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Alessio Giambrone</title>
+    <link>/tags/movies/</link>
+    <description>Recent content in Movies on Alessio Giambrone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2019 00:08:54 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Bicycle Test</title>
+      <link>/posts/bicycle_test/</link>
+      <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
+      
+      <guid>/posts/bicycle_test/</guid>
+      <description>(A semi-serious movie test)
+TL;DR The Bicycle Test is passed by a movie if it satisfies one condition:
+there must exist at least one scene in which a named character rides a bike.
+So&amp;hellip; Some time ago i discovered the Bechdel test, a test born as a joke about the representation of women in fiction.
+I&amp;rsquo;ve found it pretty terrifying, as even with those banal conditions lots of movies doesn&amp;rsquo;t pass it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Alessio Giambrone</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Alessio Giambrone</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 12 Dec 2019 00:08:54 +0100</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>The Bicycle Test</title>
+            <link>/posts/bicycle_test/</link>
+            <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
+            
+            <guid>/posts/bicycle_test/</guid>
+            <description>(A semi-serious movie test)
+TL;DR The Bicycle Test is passed by a movie if it satisfies one condition:
+there must exist at least one scene in which a named character rides a bike.
+So&amp;hellip; Some time ago i discovered the Bechdel test, a test born as a joke about the representation of women in fiction.
+I&amp;rsquo;ve found it pretty terrifying, as even with those banal conditions lots of movies doesn&amp;rsquo;t pass it.</description>
+            <content type="html"><![CDATA[
+
+<p>(A semi-serious movie test)</p>
+
+<h2 id="tl-dr">TL;DR</h2>
+
+<p>The Bicycle Test is passed by a movie if it satisfies one condition:</p>
+
+<p><em>there must exist at least one scene in which a named character rides a bike.</em></p>
+
+<h2 id="so">So&hellip;</h2>
+
+<p>Some time ago i discovered the <a href="https://en.wikipedia.org/wiki/Bechdel_test">Bechdel test</a>,
+a test born as a joke about the representation of women in fiction.</p>
+
+<p>I&rsquo;ve found it pretty terrifying, as even with those banal conditions lots of
+movies doesn&rsquo;t pass it.</p>
+
+<p>On the other side, in spite of the climate crisis, in fiction private cars
+represents pretty much the only accepted way of moving around.</p>
+
+<p>This test do exists for answering the question: is <em>in some way</em> an alternative
+mobility represented?</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

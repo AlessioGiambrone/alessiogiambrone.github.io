@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/it/links/</loc>
+    <lastmod>2019-12-12T17:43:07+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/links/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/about/</loc>
+    <lastmod>2019-12-12T17:42:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/posts/bicycle_test/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/bicycle_test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/posts/bicycle_test/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/</loc>
+    <lastmod>2019-12-12T17:43:07+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/bici/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/it/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/film/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/it/posts/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/"
+                />
+  </url>
+  
+</urlset>

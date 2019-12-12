@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Alessio Giambrone</title>
+        <link>/it/posts/</link>
+        <description>Recent content in Posts on Alessio Giambrone</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 12 Dec 2019 00:08:54 +0100</lastBuildDate>
+        <atom:link href="/it/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Il test della bicicletta</title>
+            <link>/it/posts/bicycle_test/</link>
+            <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
+            
+            <guid>/it/posts/bicycle_test/</guid>
+            <description>(Un test semi-serio per film)
+La regola Il Bicycle Test viene passato da un film se viene soddisfatta una condizione:
+deve esserci almeno una scena nella quale un personaggio con nome va in bicicletta.
+&amp;hellip; Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fumetto e che riguarda la rappresentazione delle donne nelle opere di finzione. L&amp;rsquo;ho trovato contemporaneamente divertente e raccapricciante, visto che nonostante la banalità delle condizioni che pone moltissimi film non lo passano.</description>
+            <content type="html"><![CDATA[
+
+<p>(Un test semi-serio per film)</p>
+
+<h2 id="la-regola">La regola</h2>
+
+<p>Il Bicycle Test viene passato da un film se viene soddisfatta una condizione:</p>
+
+<p><em>deve esserci almeno una scena nella quale un personaggio con nome va in
+bicicletta.</em></p>
+
+<h2 id="toc_1">&hellip;</h2>
+
+<p>Qualche tempo fa ho scoperto il <a href="https://it.wikipedia.org/wiki/Test_di_Bechdel">Bechdel test</a>,
+un test nato per scherzo in un fumetto e che riguarda la rappresentazione
+delle donne nelle opere di finzione. L&rsquo;ho trovato contemporaneamente
+divertente e raccapricciante, visto che nonostante la banalità delle condizioni
+che pone moltissimi film non lo passano.</p>
+
+<p>D&rsquo;altra parte, nonostante la crisi climatica, nelle opere di finzione
+l&rsquo;automobile viene anche oggi presentata quasi come l&rsquo;unico mezzo possibile
+di locomozione. Questo test esiste per rispondere alla
+domanda: è <em>in qualche modo</em> rappresentata una mobilità alternativa?</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
