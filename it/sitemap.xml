@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/it/links/</loc>
-    <lastmod>2019-12-12T17:43:07+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/links/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/links/"
-                />
-  </url>
-  
-  <url>
     <loc>/it/about/</loc>
     <lastmod>2019-12-12T17:42:54+01:00</lastmod>
     <xhtml:link
@@ -48,8 +33,23 @@
   </url>
   
   <url>
+    <loc>/it/links/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/links/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/</loc>
-    <lastmod>2019-12-12T17:43:07+01:00</lastmod>
+    <lastmod>2019-12-12T17:42:54+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -88,6 +88,22 @@
     <loc>/it/tags/film/</loc>
     <lastmod>2019-12-12T00:08:54+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/it/tags/links/</loc>
+    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/links/"
+                />
   </url>
   
   <url>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ale/Scaricati/home/alessiogiambrone",
+	"sourceRoot": "/home/ale/programmi/alessiogiambrone.github.io.source",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

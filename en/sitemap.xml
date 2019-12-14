@@ -88,6 +88,16 @@
     <loc>/tags/links/</loc>
     <lastmod>2019-12-12T00:08:54+01:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/links/"
+                />
   </url>
   
   <url>

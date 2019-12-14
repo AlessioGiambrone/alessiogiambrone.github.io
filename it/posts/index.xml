@@ -18,7 +18,7 @@
             <description>(Un test semi-serio per film)
 La regola Il Bicycle Test viene passato da un film se viene soddisfatta una condizione:
 deve esserci almeno una scena nella quale un personaggio con nome va in bicicletta.
-&amp;hellip; Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fumetto e che riguarda la rappresentazione delle donne nelle opere di finzione. L&amp;rsquo;ho trovato contemporaneamente divertente e raccapricciante, visto che nonostante la banalità delle condizioni che pone moltissimi film non lo passano.</description>
+Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fumetto e che riguarda la rappresentazione delle donne nelle opere di finzione. L&amp;rsquo;ho trovato contemporaneamente divertente e raccapricciante, visto che nonostante la banalità delle condizioni che pone moltissimi film non lo passano.</description>
             <content type="html"><![CDATA[
 
 <p>(Un test semi-serio per film)</p>
@@ -30,7 +30,7 @@ deve esserci almeno una scena nella quale un personaggio con nome va in biciclet
 <p><em>deve esserci almeno una scena nella quale un personaggio con nome va in
 bicicletta.</em></p>
 
-<h2 id="toc_1">&hellip;</h2>
+<hr />
 
 <p>Qualche tempo fa ho scoperto il <a href="https://it.wikipedia.org/wiki/Test_di_Bechdel">Bechdel test</a>,
 un test nato per scherzo in un fumetto e che riguarda la rappresentazione
