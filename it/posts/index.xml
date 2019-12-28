@@ -6,8 +6,58 @@
         <description>Recent content in Posts on Alessio Giambrone</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 12 Dec 2019 00:08:54 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
         <atom:link href="/it/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Incorniciare foto istantanee</title>
+            <link>/it/posts/instant_photo_framer/</link>
+            <pubDate>Fri, 27 Dec 2019 16:58:50 +0100</pubDate>
+            
+            <guid>/it/posts/instant_photo_framer/</guid>
+            <description>Poniamo caso che abbiate in mano una foto istantanea che volete incorniciare.
+Visto che in genere cornici pronte all&amp;rsquo;uso per quelle foto così piccoline e con il bordo asimmetrico non se ne trovano, ho pensato di scrivere una pagina attraverso la quale potete stampare una sagoma da ritagliare per incorniciarla in maniera elegante.
+Basta inserire le dimensioni della cornice ed il formato della foto; in ogni caso si possono mettere anche più foto e regolare l&amp;rsquo;intensità del tratto.</description>
+            <content type="html"><![CDATA[
+
+<p>Poniamo caso che abbiate in mano una foto istantanea che volete
+incorniciare.</p>
+
+<p>Visto che in genere cornici pronte all&rsquo;uso per quelle foto così
+piccoline e con il bordo asimmetrico non se ne trovano, ho pensato di scrivere
+<a href="https://alessiogiambrone.github.io/instant_photo_framer/index.html">una pagina</a>
+attraverso la quale potete
+stampare una sagoma da ritagliare per incorniciarla in
+maniera elegante.</p>
+
+<p>Basta inserire le dimensioni della cornice ed il formato della foto;
+in ogni caso si possono mettere anche più foto e regolare l&rsquo;intensità del tratto.</p>
+
+<p>Al momento supporta solo due formati di Fuji Instax, nel futuro spero di poter
+aggiungere altri formati.</p>
+
+<p>Il codice sorgente, ovviamente, sta
+<a href="https://github.com/AlessioGiambrone/instant_photo_framer">su GitHub</a>.</p>
+
+<h2 id="esempio">Esempio</h2>
+
+<p>Ecco incorniciata una foto di un&rsquo;opera del
+<a href="http://www.museoarteurbana.it/">Museo di Arte Urbana di Torino</a> dentro al
+template già tagliato e piegato:</p>
+
+<p><img src="/2019-12-27/1.jpg" alt="1" /></p>
+
+<p>La foto viene incastrata nei taglietti sul lato posteriore di modo che
+rimanga ferma, mentre l&rsquo;altra faccia viene ripegata davanti lasciando vedere
+solo la foto
+<img src="/2019-12-27/2.jpg" alt="2" /></p>
+
+<p>Infine, dentro la cornice:
+<img src="/2019-12-27/3.jpg" alt="3" /></p>
+
+<p>Enjoy!</p>
+]]></content>
+        </item>
         
         <item>
             <title>Il test della bicicletta</title>

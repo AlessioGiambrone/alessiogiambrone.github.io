@@ -6,10 +6,21 @@
     <description>Recent content on Alessio Giambrone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2019 17:42:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
     
 	<atom:link href="/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Incorniciare foto istantanee</title>
+      <link>/it/posts/instant_photo_framer/</link>
+      <pubDate>Fri, 27 Dec 2019 16:58:50 +0100</pubDate>
+      
+      <guid>/it/posts/instant_photo_framer/</guid>
+      <description>Poniamo caso che abbiate in mano una foto istantanea che volete incorniciare.
+Visto che in genere cornici pronte all&amp;rsquo;uso per quelle foto così piccoline e con il bordo asimmetrico non se ne trovano, ho pensato di scrivere una pagina attraverso la quale potete stampare una sagoma da ritagliare per incorniciarla in maniera elegante.
+Basta inserire le dimensioni della cornice ed il formato della foto; in ogni caso si possono mettere anche più foto e regolare l&amp;rsquo;intensità del tratto.</description>
+    </item>
     
     <item>
       <title>Chi sono</title>
@@ -41,8 +52,10 @@ Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fum
       <description>Bici fondazione Michele Scarponi  sito della ONLUS omonima che si batte per strade più sicure per tutti
 bikeitalia.it  sito sul mondo delle biciclette
 eurovelo routes  itinerari ciclabili che attraversano tutta l&amp;rsquo;Europa
+Sheldon Brown  Bibbia sulle bici
 IT Guerre di rete  newsletter di notizie cyber
-Anil Dash</description>
+Anil Dash 
+News the Submarine</description>
     </item>
     
   </channel>

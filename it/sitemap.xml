@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/it/posts/instant_photo_framer/</loc>
+    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/it/about/</loc>
     <lastmod>2019-12-12T17:42:54+01:00</lastmod>
     <xhtml:link
@@ -49,7 +54,7 @@
   
   <url>
     <loc>/it/</loc>
-    <lastmod>2019-12-12T17:42:54+01:00</lastmod>
+    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -91,6 +96,12 @@
   </url>
   
   <url>
+    <loc>/it/tags/fotografia/</loc>
+    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/it/tags/links/</loc>
     <lastmod>2019-12-12T00:08:54+01:00</lastmod>
     <priority>0</priority>
@@ -108,7 +119,7 @@
   
   <url>
     <loc>/it/posts/</loc>
-    <lastmod>2019-12-12T00:08:54+01:00</lastmod>
+    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
