@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alessio Giambrone</title>
@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Alessio Giambrone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2019 00:08:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bicycle</title>
+      <title>photography</title>
+      <link>/tags/photography/</link>
+      <pubDate>Fri, 27 Dec 2019 16:58:50 +0100</pubDate>
+      
+      <guid>/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bicycle</title>
       <link>/tags/bicycle/</link>
       <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
       
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Links</title>
+      <title>links</title>
       <link>/tags/links/</link>
       <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
       
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>Movies</title>
+      <title>movies</title>
       <link>/tags/movies/</link>
       <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
       

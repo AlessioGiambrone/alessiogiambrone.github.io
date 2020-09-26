@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessio Giambrone</title>
@@ -40,7 +40,7 @@ Basta inserire le dimensioni della cornice ed il formato della foto; in ogni cas
       <description>(Un test semi-serio per film)
 La regola Il Bicycle Test viene passato da un film se viene soddisfatta una condizione:
 deve esserci almeno una scena nella quale un personaggio con nome va in bicicletta.
-Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fumetto e che riguarda la rappresentazione delle donne nelle opere di finzione. L&amp;rsquo;ho trovato contemporaneamente divertente e raccapricciante, visto che nonostante la banalità delle condizioni che pone moltissimi film non lo passano.</description>
+ Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fumetto e che riguarda la rappresentazione delle donne nelle opere di finzione. L&amp;rsquo;ho trovato contemporaneamente divertente e raccapricciante, visto che nonostante la banalità delle condizioni che pone moltissimi film non lo passano.</description>
     </item>
     
     <item>
@@ -49,13 +49,12 @@ Qualche tempo fa ho scoperto il Bechdel test, un test nato per scherzo in un fum
       <pubDate>Thu, 12 Dec 2019 00:08:54 +0100</pubDate>
       
       <guid>/it/links/</guid>
-      <description>Bici fondazione Michele Scarponi  sito della ONLUS omonima che si batte per strade più sicure per tutti
-bikeitalia.it  sito sul mondo delle biciclette
-eurovelo routes  itinerari ciclabili che attraversano tutta l&amp;rsquo;Europa
-Sheldon Brown  Bibbia sulle bici
-IT Guerre di rete  newsletter di notizie cyber
-Anil Dash 
-News the Submarine</description>
+      <description>Bici fondazione Michele Scarponi sito della ONLUS omonima che si batte per strade più sicure per tutti
+bikeitalia.it sito sul mondo delle biciclette
+eurovelo routes itinerari ciclabili che attraversano tutta l&amp;rsquo;Europa
+Sheldon Brown Bibbia sulle bici
+IT Guerre di rete newsletter di notizie cyber
+Anil Dash News the Submarine </description>
     </item>
     
   </channel>
