@@ -6,10 +6,22 @@
     <description>Recent content on Alessio Giambrone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 22:08:35 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Maintaining a Multilingual CV in LaTeX</title>
+      <link>/posts/multilingual_cv/</link>
+      <pubDate>Tue, 22 Sep 2020 22:08:35 +0200</pubDate>
+      
+      <guid>/posts/multilingual_cv/</guid>
+      <description>Lately I had to update my CV and stumbled on a little old problem.
+Being italian mothertongue I had two different version of my CV, one in italian and one in english.
+This made tedious making edits, mainly because each time that I&amp;rsquo;ve added a line on the file I realized there were other places where an update was needed.
+Remove a line here, move this section there, repeat for the other file.</description>
+    </item>
     
     <item>
       <title>Framing instant photos</title>

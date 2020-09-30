@@ -5,8 +5,58 @@
         <description>Recent content in Posts on Alessio Giambrone</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2020 13:43:12 +0200</lastBuildDate>
         <atom:link href="/it/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>CV multilingue in LaTeX</title>
+            <link>/it/posts/multilingual_cv/</link>
+            <pubDate>Wed, 23 Sep 2020 13:43:12 +0200</pubDate>
+            
+            <guid>/it/posts/multilingual_cv/</guid>
+            <description>Ultimamente ho dovuto aggiornare il mio CV e sono inciampato in un vecchio, piccolo problema.
+Essendo madrelingua italiano ho sempre mantenuto due versioni del mio CV, una in italiano ed una in inglese.
+Ciò ha sempre reso tedioso fare modifiche, principalmente perchè ogni volta che dovevo &amp;ldquo;solo aggiungere una riga&amp;rdquo; finivo per fare svariate modifiche, riformulare frasi e spostare sezioni intere altrove.
+Quindi, lo stesso per il file nell&amp;rsquo;altra lingua, ma&amp;hellip;dove avevo spostato quella sezione?</description>
+            <content type="html"><![CDATA[<p>Ultimamente ho dovuto aggiornare il mio CV e sono inciampato in un vecchio,
+piccolo problema.</p>
+<p>Essendo madrelingua italiano ho sempre mantenuto due versioni del mio CV, una
+in italiano ed una in inglese.</p>
+<p>Ciò ha sempre reso tedioso fare modifiche, principalmente perchè ogni volta che dovevo
+&ldquo;solo aggiungere una riga&rdquo; finivo per fare svariate modifiche, riformulare
+frasi e spostare sezioni intere altrove.</p>
+<p>Quindi, lo stesso per il file nell&rsquo;altra lingua, ma&hellip;dove avevo spostato
+quella sezione?</p>
+<p>La soluzione che ho trovato, nonostante sia piuttosto basica, è di mantenere
+entrambe le lingue nello stesso file, appaiando le traduzioni linea per linea.</p>
+<p>Per farlo ho scritto un semplice comando tex:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-tex" data-lang="tex"><span style="color:#75715e">% passa dal linguaggio 1 al linguaggio 2 cambiando il numero dopo #
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">\newcommand</span>{<span style="color:#66d9ef">\lan</span>}[2]{#1}
+</code></pre></div><p>Un esempio completo di un documento bilingue sarebbe:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-tex" data-lang="tex"><span style="color:#66d9ef">\documentclass</span>{article}
+<span style="color:#75715e">% passa dal linguaggio 1 al linguaggio 2 cambiando il numero dopo #
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">\newcommand</span>{<span style="color:#66d9ef">\lan</span>}[2]{#1}
+
+<span style="color:#66d9ef">\begin</span>{document}
+  <span style="color:#66d9ef">\lan</span>{Hello World!}{Salve, mondo!}
+<span style="color:#66d9ef">\end</span>{document}
+</code></pre></div><p>Il comando <code>\lan</code> definito alla terza linea prende due parametri e restituisce
+solo il primo; nel caso di questo esempio, la prima lingua è l&rsquo;inglese.</p>
+<p>Dunque l&rsquo;output sarà una pagina contenente la stringa &ldquo;Hello World!&rdquo;.</p>
+<p>Cambiare il comando <code>\lan</code> per usare il secondo linguaggio è questione di
+sostituire <code>#1</code> con <code>#2</code>, si otterrà
+&ldquo;Salve, mondo!&rdquo;, la versione italiana di hello world.</p>
+<p>Ok, non è perfetto: ad ogni cambio di lingua bisogna rieditare la definizione
+del comando, e non c&rsquo;è distinzione nel nome dell&rsquo;output.</p>
+<p>Ma almeno rimane un solo file da editare.</p>
+<h5 id="ps">P.s.</h5>
+<p>Se anzichè <code>[2]</code> si definisce il comando con <code>[3]</code> si potrà avere un documento
+trilingue, ricordandosi di mettere tre paia di graffe per ogni traduzione da
+inserire (una per lingua).</p>
+<p>Nonostante si possa aumentare quel numero a piacere, credo che la leggibilità
+del codice ne risentirebbe troppo.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Incorniciare foto istantanee</title>

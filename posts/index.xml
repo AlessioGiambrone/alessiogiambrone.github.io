@@ -5,8 +5,57 @@
         <description>Recent content in Posts on Alessio Giambrone</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2020 22:08:35 +0200</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Maintaining a Multilingual CV in LaTeX</title>
+            <link>/posts/multilingual_cv/</link>
+            <pubDate>Tue, 22 Sep 2020 22:08:35 +0200</pubDate>
+            
+            <guid>/posts/multilingual_cv/</guid>
+            <description>Lately I had to update my CV and stumbled on a little old problem.
+Being italian mothertongue I had two different version of my CV, one in italian and one in english.
+This made tedious making edits, mainly because each time that I&amp;rsquo;ve added a line on the file I realized there were other places where an update was needed.
+Remove a line here, move this section there, repeat for the other file.</description>
+            <content type="html"><![CDATA[<p>Lately I had to update my CV and stumbled on a little old problem.</p>
+<p>Being italian mothertongue I had two different version of my CV, one in italian
+and one in english.</p>
+<p>This made tedious making edits, mainly because each time that I&rsquo;ve added a line
+on the file I realized there were other places where an update was needed.</p>
+<p>Remove a line here, move this section there, repeat for the other file.</p>
+<p>Errr&hellip;.What I&rsquo;ve moved where?</p>
+<p>My solution, while pretty hacky, is to maintain only one file with both
+translations paired, line by line; for achieving this I&rsquo;ve written a simple
+command, defined as:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-tex" data-lang="tex"><span style="color:#75715e">% switch language from lang 1 to lang 2 changing the number after #
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">\newcommand</span>{<span style="color:#66d9ef">\lan</span>}[2]{#1}
+</code></pre></div><p>A complete example of a document in two languages would be:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-tex" data-lang="tex"><span style="color:#66d9ef">\documentclass</span>{article}
+<span style="color:#75715e">% switch language from lang 1 to lang 2 changing the number after #
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">\newcommand</span>{<span style="color:#66d9ef">\lan</span>}[2]{#1}
+
+<span style="color:#66d9ef">\begin</span>{document}
+  <span style="color:#66d9ef">\lan</span>{Hello World!}{Salve, mondo!}
+<span style="color:#66d9ef">\end</span>{document}
+</code></pre></div><p>The <code>\lan</code> command defined on line 3 gets two parameters and outputs the first;
+in this case, the document&rsquo;s first language is english.</p>
+<p>The output will be just a document containting &ldquo;Hello World!&rdquo;.</p>
+<p>If you change the <code>\lan</code> command and instead of <code>#1</code> you put <code>#2</code>, you&rsquo;ll
+magically get the line &ldquo;Salve, mondo!&rdquo;, the italian version of hello world.</p>
+<p>Ok, this is not perfect: every time you want to change language you must edit
+the command, and also the compilation won&rsquo;t automatically generate different
+pdf based on the language.</p>
+<p>But at least you&rsquo;ll have only one file to edit.</p>
+<h5 id="ps">P.s.</h5>
+<p>If instead of
+<code>[2]</code> we define the command with  <code>[3]</code> we&rsquo;ll be able to obtain a document in
+three languages, as long as the command is used with three pairs of braces
+instead of two (one per language).</p>
+<p>We can increment the number of languages as much as we want, but the code
+readability will drop.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Framing instant photos</title>

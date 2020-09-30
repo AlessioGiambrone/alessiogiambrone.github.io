@@ -4,7 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
+    <lastmod>2020-09-22T22:08:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/multilingual_cv/</loc>
+    <lastmod>2020-09-22T22:08:35+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/posts/multilingual_cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/multilingual_cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-09-22T22:08:35+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
                 />
   </url>
   
@@ -35,21 +65,6 @@
   <url>
     <loc>/tags/photography/</loc>
     <lastmod>2019-12-27T16:58:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
   </url>
   
   <url>

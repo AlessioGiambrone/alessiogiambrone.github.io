@@ -6,10 +6,22 @@
     <description>Recent content on Alessio Giambrone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 16:58:50 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 13:43:12 +0200</lastBuildDate>
     
 	<atom:link href="/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CV multilingue in LaTeX</title>
+      <link>/it/posts/multilingual_cv/</link>
+      <pubDate>Wed, 23 Sep 2020 13:43:12 +0200</pubDate>
+      
+      <guid>/it/posts/multilingual_cv/</guid>
+      <description>Ultimamente ho dovuto aggiornare il mio CV e sono inciampato in un vecchio, piccolo problema.
+Essendo madrelingua italiano ho sempre mantenuto due versioni del mio CV, una in italiano ed una in inglese.
+Ciò ha sempre reso tedioso fare modifiche, principalmente perchè ogni volta che dovevo &amp;ldquo;solo aggiungere una riga&amp;rdquo; finivo per fare svariate modifiche, riformulare frasi e spostare sezioni intere altrove.
+Quindi, lo stesso per il file nell&amp;rsquo;altra lingua, ma&amp;hellip;dove avevo spostato quella sezione?</description>
+    </item>
     
     <item>
       <title>Incorniciare foto istantanee</title>

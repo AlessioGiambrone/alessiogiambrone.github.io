@@ -4,7 +4,7 @@
   
   <url>
     <loc>/it/</loc>
-    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
+    <lastmod>2020-09-23T13:43:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/posts/multilingual_cv/</loc>
+    <lastmod>2020-09-23T13:43:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/multilingual_cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/posts/multilingual_cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/posts/</loc>
+    <lastmod>2020-09-23T13:43:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/posts/"
                 />
   </url>
   
@@ -34,21 +64,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/posts/instant_photo_framer/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/posts/</loc>
-    <lastmod>2019-12-27T16:58:50+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/posts/"
                 />
   </url>
   
